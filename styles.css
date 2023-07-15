@@ -12,6 +12,13 @@ body {
   font-family: Arial, sans-serif;
 }
 
+/* Set a fixed width and center the website */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
 /* Style the header */
 header {
   background-color: #333;
