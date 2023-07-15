@@ -106,4 +106,9 @@ article:hover {
 .blog-post p {
   font-size: 16px;
 }
+.video-container {
+  display: flex;
+  justify-content: center;
+}
+
 
