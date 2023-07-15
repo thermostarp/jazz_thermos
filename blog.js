@@ -33,3 +33,5 @@ function renderBlogPosts(posts) {
     blogPostsDiv.appendChild(postDiv);
   });
 }
+
+
